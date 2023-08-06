@@ -1,6 +1,11 @@
-### Hi there 👋
+## Hi there 👋 , I am NITHEESHWAR B R
+### A passionate Full Stack Developer
 
-<!--
+
+
+
+
+<!---
 **NitheeshwarBR/NitheeshwarBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
